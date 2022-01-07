@@ -1,0 +1,4 @@
+#Display the output
+print("I believe in me")
+print("I can rely on me")
+print("The rest is details")
